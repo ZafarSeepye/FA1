@@ -6,10 +6,10 @@ public class UtilitiesManager
 {
     public static double CalculateUrgency(ServiceRequest request)
     {
-        // Better formula = extra marks 💅
+       //formula
         return (request.PriorityLevel * 2) + (request.SeverityLevel * 3) - request.EstimatedHours;
     }
-
+    //create the request for the variables
     public static void GenerateReport(ServiceRequest request)
     {
         Console.WriteLine("\n--- SERVICE REPORT ---");
