@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeAffairsDigitalIdentityProcessor.Properties
+namespace FavouriteLanguages1.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace HomeAffairsDigitalIdentityProcessor.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("HomeAffairsDigitalIdentityProcessor.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FavouriteLanguages1.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

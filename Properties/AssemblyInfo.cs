@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HomeAffairsDigitalIdentityProcessor")]
+[assembly: AssemblyTitle("FavouriteLanguages1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HomeAffairsDigitalIdentityProcessor")]
+[assembly: AssemblyProduct("FavouriteLanguages1")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("693808b2-7ba9-44b0-b953-4d645923ecf2")]
+[assembly: Guid("f09d6364-02c8-43dd-b000-e662f2a72007")]
 
 // Version information for an assembly consists of the following four values:
 //

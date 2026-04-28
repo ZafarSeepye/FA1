@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeAffairsDigitalIdentityProcessor.Properties
+namespace FavouriteLanguages1.Properties
 {
 
 
