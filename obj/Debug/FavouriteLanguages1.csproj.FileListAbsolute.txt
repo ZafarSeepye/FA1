@@ -1,0 +1,10 @@
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.csproj.AssemblyReference.cache
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.Properties.Resources.resources
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.csproj.GenerateResource.cache
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.csproj.CoreCompileInputs.cache
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\bin\Debug\FavouriteLanguages1.exe.config
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\bin\Debug\FavouriteLanguages1.exe
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\bin\Debug\FavouriteLanguages1.pdb
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.Form1.resources
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.exe
+C:\Users\zafar\source\repos\FA1\FavouriteLanguages1\FavouriteLanguages1\obj\Debug\FavouriteLanguages1.pdb
